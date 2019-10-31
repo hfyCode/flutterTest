@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2e2e349a1ce58d5867f8785a7e5f0dbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\756684bb7d9d3076b623de0379986ed5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\48ef0f732070d88581f0c6dcf579c1cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d0893915af19c55b691e12e4ddce6f46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0392952dc546f9840bb8aca35bbb099a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f5f3a6b60e8471da8fb466f9a1d5730d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b7fc32cd5d4368d9011eb52b6e70f67c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\587b0049df749e719afdac59cd3c2db8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8ef72ef2f6a1305f70b4585033b1aa07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6b1f9d676723aca8906c8c12a58056e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\48a15678a166160835c7aa7bb60258b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bfe2321f562544ba2db2f95d2a6a1c5\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\09f9a50e80f9132951258546671b03ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a9a43b88e95249280be604cef212eab0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a4e417bcfc7c6aff40b7f238665a85c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cf65c213abe7ed86b4d477b47b6c4caa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1082f5414c7e90761beead7fe71b4610\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cd2c02d3065040e0f82183fec049d873\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\563618df0fbd6165ec53c6cc049c5436\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\34b22da2bd11b149d44b229e74bb22ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\76afb629169b13193fc033a3c5f85fe0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ea188bc145489ab8752f84d40d0121a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a113ee292436fe2a7ab18e2e46da3c01\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bfe2321f562544ba2db2f95d2a6a1c5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bfe2321f562544ba2db2f95d2a6a1c5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cd2c02d3065040e0f82183fec049d873\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cd2c02d3065040e0f82183fec049d873\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bfe2321f562544ba2db2f95d2a6a1c5\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:11:9-36
+	android:icon
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.yourcompany.flutter_app.MainActivity
+ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2e2e349a1ce58d5867f8785a7e5f0dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2e2e349a1ce58d5867f8785a7e5f0dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\756684bb7d9d3076b623de0379986ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\756684bb7d9d3076b623de0379986ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\48ef0f732070d88581f0c6dcf579c1cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\48ef0f732070d88581f0c6dcf579c1cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d0893915af19c55b691e12e4ddce6f46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d0893915af19c55b691e12e4ddce6f46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0392952dc546f9840bb8aca35bbb099a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0392952dc546f9840bb8aca35bbb099a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f5f3a6b60e8471da8fb466f9a1d5730d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f5f3a6b60e8471da8fb466f9a1d5730d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b7fc32cd5d4368d9011eb52b6e70f67c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b7fc32cd5d4368d9011eb52b6e70f67c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\587b0049df749e719afdac59cd3c2db8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\587b0049df749e719afdac59cd3c2db8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8ef72ef2f6a1305f70b4585033b1aa07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8ef72ef2f6a1305f70b4585033b1aa07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6b1f9d676723aca8906c8c12a58056e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6b1f9d676723aca8906c8c12a58056e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\48a15678a166160835c7aa7bb60258b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\48a15678a166160835c7aa7bb60258b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bfe2321f562544ba2db2f95d2a6a1c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bfe2321f562544ba2db2f95d2a6a1c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\09f9a50e80f9132951258546671b03ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\09f9a50e80f9132951258546671b03ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a9a43b88e95249280be604cef212eab0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a9a43b88e95249280be604cef212eab0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a4e417bcfc7c6aff40b7f238665a85c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a4e417bcfc7c6aff40b7f238665a85c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cf65c213abe7ed86b4d477b47b6c4caa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cf65c213abe7ed86b4d477b47b6c4caa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1082f5414c7e90761beead7fe71b4610\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1082f5414c7e90761beead7fe71b4610\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cd2c02d3065040e0f82183fec049d873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\cd2c02d3065040e0f82183fec049d873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\563618df0fbd6165ec53c6cc049c5436\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\563618df0fbd6165ec53c6cc049c5436\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\34b22da2bd11b149d44b229e74bb22ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\34b22da2bd11b149d44b229e74bb22ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\76afb629169b13193fc033a3c5f85fe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\76afb629169b13193fc033a3c5f85fe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ea188bc145489ab8752f84d40d0121a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ea188bc145489ab8752f84d40d0121a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a113ee292436fe2a7ab18e2e46da3c01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hg\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a113ee292436fe2a7ab18e2e46da3c01\AndroidManifest.xml:20:5-44
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\hg\work\pos\youyuer-android-pos\flutter_app\android\app\src\main\AndroidManifest.xml
