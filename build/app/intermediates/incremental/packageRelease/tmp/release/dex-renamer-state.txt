@@ -1,4 +1,0 @@
-#Wed Oct 30 16:51:25 CST 2019
-base.0=C\:\\hg\\work\\pos\\youyuer-android-pos\\flutter_app\\build\\app\\intermediates\\transforms\\r8\\release\\1
-path.0=classes.dex
-renamed.0=classes.dex

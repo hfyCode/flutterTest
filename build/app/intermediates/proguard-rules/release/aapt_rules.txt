@@ -1,4 +1,0 @@
-# Referenced at C:\hg\work\pos\youyuer-android-pos\flutter_app\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:22
--keep class com.yourcompany.flutter_app.MainActivity { <init>(...); }
-# Referenced at C:\hg\work\pos\youyuer-android-pos\flutter_app\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:17
--keep class io.flutter.app.FlutterApplication { <init>(...); }
